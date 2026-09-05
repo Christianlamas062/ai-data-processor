@@ -1,0 +1,12 @@
+id,customer_name,age,income,department
+101,  Alice Johnson  ,28,75000,Engineering
+102,Bob Smith,34,,Marketing
+103, Charlie Brown ,45,92000,Engineering
+104,Diana Prince,,88000,Finance
+105,  Evan Wright  ,29,61000,marketing
+101,  Alice Johnson  ,28,75000,Engineering
+106,Fiona Gallagher,38,72000,Finance
+107, George Clark ,,65000,HR
+108,Hannah Abbott,31,70000,
+109,Ian Malcolm,52,110000,Engineering
+110, Julia Roberts ,27,,Finance

@@ -1,0 +1,30 @@
+# AI Data Processor Configuration
+data:
+  input_path: "data/sample.csv"
+  output_dir: "output"
+  cleaned_filename: "cleaned_data.csv"
+  report_filename: "analysis_report.md"
+
+cleaning:
+  strip_whitespace: true
+  drop_duplicates: true
+  handle_nulls: "fill_mean_or_mode"
+  required_columns:
+    - "id"
+    - "customer_name"
+    - "age"
+    - "income"
+    - "department"
+  numeric_columns:
+    - "id"
+    - "age"
+    - "income"
+
+analysis:
+  mode: "gemini"  # Supported modes: "gemini" | "antigravity"
+  gemini:
+    model_name: "gemini-1.5-flash"
+    temperature: 0.2
+  antigravity:
+    model_target: "gemini-1.5-flash"
+    local_agent: true

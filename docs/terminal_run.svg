@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240">
+  <rect width="800" height="240" rx="10" fill="#1e1e1e"/>
+  <circle cx="25" cy="25" r="7" fill="#ff5f56"/>
+  <circle cx="45" cy="25" r="7" fill="#ffbd2e"/>
+  <circle cx="65" cy="25" r="7" fill="#27c93f"/>
+  <text x="30" y="70" fill="#4fc1ff" font-family="monospace" font-size="14">[2026-09-04 22:40:12] [INFO    ] Initializing Autonomous Data Agent pipeline...</text>
+  <text x="30" y="100" fill="#4fc1ff" font-family="monospace" font-size="14">[2026-09-04 22:40:12] [INFO    ] Loading data from 'data/sample.csv'...</text>
+  <text x="30" y="130" fill="#569cd6" font-family="monospace" font-size="14">[2026-09-04 22:40:13] [INFO    ] Applying automated cleaning and normalization rules...</text>
+  <text x="30" y="160" fill="#4ec9b0" font-family="monospace" font-size="14">[2026-09-04 22:40:14] [INFO    ] Cleaned dataset written to 'output/cleaned_data.csv'.</text>
+  <text x="30" y="190" fill="#dcdcaa" font-family="monospace" font-size="14">[2026-09-04 22:40:15] [INFO    ] Executive report generated at 'output/analysis_report.md'.</text>
+  <text x="30" y="220" fill="#6a9955" font-family="monospace" font-size="14">[2026-09-04 22:40:16] [INFO    ] Agent workflow finished successfully.</text>
+</svg>

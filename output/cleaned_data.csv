@@ -1,0 +1,11 @@
+id,customer_name,age,income,department
+101,Alice Johnson,28.0,75000.0,Engineering
+102,Bob Smith,34.0,73500.0,Marketing
+103,Charlie Brown,45.0,92000.0,Engineering
+104,Diana Prince,32.5,88000.0,Finance
+105,Evan Wright,29.0,61000.0,marketing
+106,Fiona Gallagher,38.0,72000.0,Finance
+107,George Clark,32.5,65000.0,HR
+108,Hannah Abbott,31.0,70000.0,Engineering
+109,Ian Malcolm,52.0,110000.0,Engineering
+110,Julia Roberts,27.0,73500.0,Finance
