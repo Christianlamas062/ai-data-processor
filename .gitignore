@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# AI Data Processor - Project Specific Rules
+# ==========================================
+output/*
+!output/.gitkeep
+.env*.local
+.env.*
+.vscode/
+.idea/
+.antigravity/cache/
+*.agent.tmp
+snippet*.txt
