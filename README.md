@@ -124,7 +124,4 @@ Running the agent produces:
 
 ---
 
-## Available for Hire on Upwork
-
-Looking to automate data workflows, build custom MCP tools, or deploy autonomous AI agents?  
-[Contact me on Upwork](https://www.upwork.com/freelancers/~01509343b9d04e7eff) to discuss your automation pipeline.
+## 
